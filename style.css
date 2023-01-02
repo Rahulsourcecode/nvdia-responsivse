@@ -1,0 +1,53 @@
+.d-flex i{   
+padding-top: 1rem;
+padding-right: 4rem;
+}
+.icons{
+    width: 175px;
+    padding-right:50px;
+    padding-left: 50px;
+    font-size:x-large;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-toggler button{
+    position: absolute;
+    left: 0px;
+}
+
+.slide-buttons button{
+    color: red;
+}
+.color-black{
+    display: flex;
+    justify-content: center;
+}
+.elements{
+    display: flex;
+    justify-content: space-between;
+}
+.row h3{
+    text-align: center;
+}
+.list{
+    color: rgb(40, 207, 40);
+    list-style: none;
+}
+.last-section{
+    margin-top: 50px;
+}
+.subscribe{
+    text-align: center;
+}
+.subscribe button{
+    background-color: rgb(40, 207, 40);
+    color: white;
+}
+.end-f li{
+    display: inline;
+    padding: 20px;
+}
+.end-f{
+    text-align: center;
+}
